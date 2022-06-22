@@ -3,7 +3,7 @@
 
 ### 🌱 I’m currently learning
 - Node.JS
-- Spring Framework
+- ReactJS
 
 
 📫 Reach me through email at bautistasandeclop@gmail.com
