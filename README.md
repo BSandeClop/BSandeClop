@@ -7,5 +7,7 @@
 - Spring Security
 - Docker
 
+### 🛠 I'm currently working on
+- WhatCanIEat
 
 📫 Reach me through email at bautistasandeclop@gmail.com
