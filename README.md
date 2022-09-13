@@ -4,8 +4,8 @@
 ### 🌱 I’m currently learning
 - Node.JS
 - ReactJS
-- Spring Security
 - Docker
+- Kubernetes
 
 ### 🛠 I'm currently working on
 - WhatCanIEat
